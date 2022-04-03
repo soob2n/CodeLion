@@ -1,36 +1,34 @@
-'''
-title: HTML/CSS
+# HTML/CSS
 
 HTML/CSS로 만드는 나만의 이력서
-'''
 
 ## HTML
-
-대제목을 `TAG`라고 한다
-
-<가방2><가방1>내용물입니다. </가방1></가방2>
-
-태그로 감싼다.
-
-<h1> heading 1
-
-<p> 본문
-
 많이 쓰이는 태그를 이용해서 쉽고 간결하게 코드를 짠다.
 
-<!DOCTYPE html>
+<가방2><가방1>내용물입니다.</가방1></가방2>
 
+컨텐츠를 `TAG`로 감싼다.
+
+<h1> h1(heading1) </h1>
+
+<p> p(본문) </p>
+
+
+<!DOCTYPE html>
 <HTML></HTML>
 
 없어도 동작은 하지만, 반드시 명시한다.
+
 
 <head></head>
 
 내용물에 대한 추가적인 정보가 담겨있음
 
+
 <meta charset=”UTF-*”>
 
 한글이 정상적으로 출력되게 하는 코드
+
 
 <title></title>
 
@@ -40,22 +38,23 @@ HTML/CSS로 만드는 나만의 이력서
 
 단독태그(css파일과 연결)
 
+
 <body></body>
 
 컨텐츠 내용이 담겨있음
+
 
 <section></section> <article></article>
 
 div와 완전히 똑같음(html문서를 꾸미기 위해 분리)
 
-<footer></footer>
 
+<footer></footer>
 하단에 표시하는 안내문
 
 <img src=”이미지 경로”> 이미지띄우기
-
-<a href=”주소”> 하이퍼링크
-
+<a href=”주소”> 하이퍼링크 </a>
+    
 lorem ipsum : 의미없는 텍스트(디자인을 보기 위해 사용)
 
 ## CSS
