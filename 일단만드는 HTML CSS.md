@@ -12,7 +12,7 @@ HTML/CSS로 만드는 나만의 이력서
 
 태그로 감싼다.
 
-<h1> heading 1
+<h1> heading 1 </h1>
 
 <p> 본문
 
@@ -104,7 +104,7 @@ margin: 상자 밖 영역
 
 text-align: center; //글씨를 가운데 정렬
 
-margin-left: auto; 
+margin-left: auto;
 
 margin-right: auto; //div를 가운데 정렬
 
@@ -114,9 +114,9 @@ box-shadow: 가로축 세로축 흐린정도(블러) 퍼진정도(스프레드) 
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap'); //구글 웹폰트를 불러온다
 
-* { //모든 내용에 적용
+- { //모든 내용에 적용
 
-    font-family: ‘Montserrat’; 
+  font-family: ‘Montserrat’;
 
 }
 
