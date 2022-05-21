@@ -1,4 +1,4 @@
-![img](./img/4주차_수강인증.png)
+![img](./img/5주차_수강인증.png)
 
 `html` 파일 내에 `<script></script>` 태그 안에 js 작성
 `let 변수명`으로 변수 선언
