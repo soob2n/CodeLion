@@ -456,7 +456,7 @@ useMemo(function, [특정 값])
 
 ### 제어 컴포넌트(Controlled Componenet)
 
-React에서 폼(<input>, <textarea>, <select>)에 발생하는 사용자 입력값을 제어하는 방식
+React에서 폼(`<input>`, `<textarea>`, `<select>`)에 발생하는 사용자 입력값을 제어하는 방식
 
 
 ## Chapter5 Virtual DOM, useRef, useCallback, React.memo
