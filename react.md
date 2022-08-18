@@ -458,7 +458,9 @@ useMemo(function, [특정 값])
 
 React에서 폼(<input>, <textarea>, <select>)에 발생하는 사용자 입력값을 제어하는 방식
 
+
 ## Chapter5 Virtual DOM, useRef, useCallback, React.memo
+
 
 ### DOM tree 생성
 
@@ -491,7 +493,9 @@ React → 달라진 부분만 반영
 Virtual DOM을 효율적으로 컨트롤
 
 - Real DOM 생성 시에 class, name, id 등을 확실히 가져올 거라는 보장이 없으므로 getElementById, querySelector.. 등을 사용하지 않는다.
+
 - 해당 컴포넌트 안에서만 조작이 가능해서 data flow가 단방향을 유지한다.
+
 - Virtual DOM에서 조작하고 결과물만 real DOM으로 가져온다.
 
 ### useCallBack
